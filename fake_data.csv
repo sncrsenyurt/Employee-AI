@@ -1,0 +1,1 @@
+uuid,data_id,start_time,end_time,state,vehicle,driver,operator,passenger,instructor,git_sha,git_branch,run_type,autonomous_mode,public_roads,meta_id,mission,total_start_km,total_end_km,total_delta_km,autonomous_start_km,autonomous_end_km,autonomous_delta_km,interventions,km_per_interventions,total_autonomous_seconds,total_autonomous_hours
